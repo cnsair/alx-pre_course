@@ -1,2 +1,2 @@
 Non Empty Readme
-I updated fro Github interface
+I updated from Github interface
